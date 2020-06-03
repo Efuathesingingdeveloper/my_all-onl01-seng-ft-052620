@@ -5,7 +5,7 @@ def my_all?(collection)
   
   while index < collection.length
   result = yield(collection[index])
-  index += 1
+   index += 1
   end
   
   return result
