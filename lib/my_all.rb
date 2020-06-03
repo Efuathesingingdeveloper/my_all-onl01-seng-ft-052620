@@ -10,5 +10,5 @@ def my_all?(collection)
    index += 1
   end
   
-  
+  true
 end
