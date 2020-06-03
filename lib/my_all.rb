@@ -8,5 +8,5 @@ def my_all?(collection)
   index += 1
   end
   
-  return
+  return result
 end
